@@ -2,8 +2,8 @@
 
 In the previous two days we learned why and how to scan container images.
 
-However, usually our infrastucture consists of more than just container images.
-Yes, our services wil run as containers, but around them we can also have other artifacts like:
+However, usually our infrastructure consists of more than just container images.
+Yes, our services will run as containers, but around them we can also have other artifacts like:
 
 - Kubernetes manifests
 - Helm templates
@@ -12,7 +12,7 @@ Yes, our services wil run as containers, but around them we can also have other 
 For maximum security, you would be scanning all the artifacts that you use for your environment, not only your container images.
 
 The reason for that is that even if you have the most secure Docker images with no CVEs,
-but run then on an insecure infrastrucure with bad Kubernetes configuration,
+but run then on an insecure infrastructure with bad Kubernetes configuration,
 then your environment will not be secure.
 
 **Each system is as secure as its weakest link.**
@@ -159,3 +159,4 @@ A Secure SDLC would include scanning of all artifacts that end up in our product
 
 Today we learned how to scan non-container artifacts like Kubernetes manifests, Helm charts and Terraform code.
 The tools we looked at are free and open-source and can be integrated into any workflow or CI pipeline.
+See you on [Day 24](day24.md).
