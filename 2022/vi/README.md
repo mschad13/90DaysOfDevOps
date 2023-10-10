@@ -81,43 +81,43 @@ Cách nhanh nhất để liên lạc với tôi là thông qua Twitter tại [@M
 - [✔️] 📚 41 > [Quy trình làm việc với mã nguồn mở](Days/day41.md)
 ### Containers
 
-- [✔️] 🏗️ 42 > [The Big Picture: Containers](Days/day42.md)
-- [✔️] 🏗️ 43 > [What is Docker & Getting installed](Days/day43.md)
-- [✔️] 🏗️ 44 > [Docker Images & Hands-On with Docker Desktop](Days/day44.md)
-- [✔️] 🏗️ 45 > [The anatomy of a Docker Image](Days/day45.md)
+- [✔️] 🏗️ 42 > [Bức tranh toàn cảnh: Containers](Days/day42.md)
+- [✔️] 🏗️ 43 > [Docker là gì & Cài đặt](Days/day43.md)
+- [✔️] 🏗️ 44 > [Docker Images & Thực hành với Docker Desktop](Days/day44.md)
+- [✔️] 🏗️ 45 > [Phân tích một Docker Image](Days/day45.md)
 - [✔️] 🏗️ 46 > [Docker Compose](Days/day46.md)
 - [✔️] 🏗️ 47 > [Docker Networking & Security](Days/day47.md)
-- [✔️] 🏗️ 48 > [Alternatives to Docker](Days/day48.md)
+- [✔️] 🏗️ 48 > [Các lựa chọn thay thế cho Docker](Days/day48.md)
 
 ### Kubernetes
 
-- [✔️] ☸ 49 > [The Big Picture: Kubernetes](Days/day49.md)
-- [✔️] ☸ 50 > [Choosing your Kubernetes platform](Days/day50.md)
-- [✔️] ☸ 51 > [Deploying your first Kubernetes Cluster](Days/day51.md)
-- [✔️] ☸ 52 > [Setting up a multinode Kubernetes Cluster](Days/day52.md)
-- [✔️] ☸ 53 > [Rancher Overview - Hands On](Days/day53.md)
-- [✔️] ☸ 54 > [Kubernetes Application Deployment](Days/day54.md)
-- [✔️] ☸ 55 > [State and Ingress in Kubernetes](Days/day55.md)
+- [✔️] ☸ 49 > [Bức tranh toàn cảnh: Kubernetes](Days/day49.md)
+- [✔️] ☸ 50 > [Chọn nền tảng chạy Kubernetes](Days/day50.md)
+- [✔️] ☸ 51 > [Triển khai Kubernetes cluster đầu tiên](Days/day51.md)
+- [✔️] ☸ 52 > [Thiết lập Kubernetes cluster đa node](Days/day52.md)
+- [✔️] ☸ 53 > [Tổng quan về Rancher - Thực hành](Days/day53.md)
+- [✔️] ☸ 54 > [Triển khai ứng dụng Kubernetes](Days/day54.md)
+- [✔️] ☸ 55 > [State và Ingress trong Kubernetes](Days/day55.md)
 
 ### Học cơ sở hạ tầng dưới dạng mã (Infrastructure as Code)
 
-- [✔️] 🤖 56 > [The Big Picture: IaC](Days/day56.md)
-- [✔️] 🤖 57 > [An intro to Terraform](Days/day57.md)
-- [✔️] 🤖 58 > [HashiCorp Configuration Language (HCL)](Days/day58.md)
-- [✔️] 🤖 59 > [Create a VM with Terraform & Variables](Days/day59.md)
-- [✔️] 🤖 60 > [Docker Containers, Provisioners & Modules](Days/day60.md)
-- [✔️] 🤖 61 > [Kubernetes & Multiple Environments](Days/day61.md)
+- [✔️] 🤖 56 > [Bức tranh toàn cảnh: Cơ sở hạ tầng dưới dạng mã (IaC)](Days/day56.md)
+- [✔️] 🤖 57 > [Giới thiệu về Terraform](Days/day57.md)
+- [✔️] 🤖 58 > [Ngôn ngữ cấu hình HashiCorp (HCL)](Days/day58.md)
+- [✔️] 🤖 59 > [Tạo VM với Terraform & Biến](Days/day59.md)
+- [✔️] 🤖 60 > [Docker Container, Providers & Modules](Days/day60.md)
+- [✔️] 🤖 61 > [Kubernetes & Đa môi trường](Days/day61.md)
 - [✔️] 🤖 62 > [Testing, Tools & Alternatives](Days/day62.md)
 
 ### Tự động hóa quản lý cấu hình
 
-- [✔️] 📜 63 > [The Big Picture: Configuration Management](Days/day63.md)
-- [✔️] 📜 64 > [Ansible: Getting Started](Days/day64.md)
+- [✔️] 📜 63 > [Bức tranh toàn cảnh: Quản lý cấu hình](Days/day63.md)
+- [✔️] 📜 64 > [Ansible: Bắt đầu](Days/day64.md)
 - [✔️] 📜 65 > [Ansible Playbooks](Days/day65.md)
-- [✔️] 📜 66 > [Ansible Playbooks Continued...](Days/day66.md)
-- [✔️] 📜 67 > [Using Roles & Deploying a Loadbalancer](Days/day67.md)
+- [✔️] 📜 66 > [Tiếp tục với Ansible Playbooks...](Days/day66.md)
+- [✔️] 📜 67 > [Sử dụng Role & Triển khai Loadbalancer](Days/day67.md)
 - [✔️] 📜 68 > [Tags, Variables, Inventory & Database Server config](Days/day68.md)
-- [✔️] 📜 69 > [All other things Ansible - Automation Controller, AWX, Vault](Days/day69.md)
+- [✔️] 📜 69 > [Tất cả những thứ còn lại của Ansible - Automation Controller, AWX, Vault](Days/day69.md)
 
 ### Tạo CI/CD Pipelines
 

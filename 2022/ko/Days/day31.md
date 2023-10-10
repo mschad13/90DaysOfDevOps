@@ -22,7 +22,7 @@ id: 1049040
 
 Microsoft는 지정학적 경계 내에 여러 지역을 배포합니다.
 
-서비스 가용성을 위한 Azure의 두 가지 개념. Sets과 영역 모두.
+서비스 가용성을 위한 Azure의 두 가지 개념엔 Sets와 영역이 있습니다.
 
 가용성 Sets - 데이터 센터 내에서 복원력 제공
 
@@ -100,7 +100,7 @@ Azure Functions - 서버리스 코드를 제공합니다. 퍼블릭 클라우드
 
 Azure Event Grid를 사용하면 서비스 및 이벤트에서 로직을 트리거할 수 있습니다.
 
-Azure Logic App은 그래픽 기반 워크플로 및 통합을 제공합니다.
+Azure Logic App은 그래픽 기반 workflow 및 통합을 제공합니다.
 
 또한 일관된 관리 및 예약을 통해 Windows 및 Linux 노드 모두에서 대규모 작업을 실행할 수 있는 Azure Batch도 살펴볼 수 있습니다.
 
